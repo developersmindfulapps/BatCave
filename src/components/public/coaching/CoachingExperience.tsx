@@ -47,7 +47,7 @@ export function CoachingExperience() {
           </div>
           <p className="text-muted-foreground max-w-xs text-xs sm:text-sm">
             Purpose-built indoor facilities designed for focused cricket
-            training and skill development.
+            training and skill development..
           </p>
         </div>
 
